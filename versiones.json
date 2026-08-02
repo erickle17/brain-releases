@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "required_update": false,
+  "latest_version": "1.0.2",
+  "required_update": true,
   "release_date": "2026-08-01",
   "components": {
     "frontend": {
