@@ -1,21 +1,7 @@
 {
-  "version_local": "1.0.0",
   "version_actual": "1.0.0",
-  "url_descarga": "https://github.com",
+  "url_descarga": "",
   "critica": false,
-  "cambios": "Optimización en sábanas de Polars y corrección en la carga del archivo .lic.",
-  "requiere_actualizacion": true,
-  "release_date": "2026-08-01",
-  "components": {
-    "frontend": {
-      "version": "1.0.2",
-      "url": "https://github.com",
-      "hash": "a1b2c3d4e5f6..."
-    },
-    "backend": {
-      "version": "1.0.0",
-      "url": "https://github.com",
-      "hash": "z9y8x7w6v5u4..."
-    }
-  }
+  "cambios": ""
+  "release_date": "26-08-01",
 }
