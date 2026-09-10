@@ -3,5 +3,5 @@
   "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.1/Nexus_Finance_Setup.exe",
   "critica": false,
   "cambios": "Corrección de arranque en equipos con WMI lento y mejora del identificador de licencia.",
-  "release_date": "10-09-26"
+  "release_date": "10-09-26",
 }
