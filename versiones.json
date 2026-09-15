@@ -1,7 +1,7 @@
 {
-  "version_actual": "1.0.3",
-  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.3/Nexus_Finance_Setup.exe",
-  "critica": true,
-  "cambios": "Rediseno visual completo (lienzo claro, tarjetas blancas), chat IA funcional con conector simplificado, correccion de timeout en chat cloud y botones de ventana visibles.",
-  "release_date": "14-09-26"
+  "version_actual": "1.0.4",
+  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.4/Nexus_Finance_Setup.exe",
+  "critica": false,
+  "cambios": "Corrige el sistema de autoactualizacion (bloqueo circular entre el instalador y el cierre de la app).",
+  "release_date": "15-09-26"
 }
