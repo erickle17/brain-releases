@@ -1,7 +1,7 @@
 {
-  "version_actual": "1.0.4",
-  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.4/Nexus_Finance_Setup.exe",
-  "critica": false,
-  "cambios": "Corrige el sistema de autoactualizacion (bloqueo circular entre el instalador y el cierre de la app).",
-  "release_date": "15-09-26"
+  "version_actual": "1.0.5",
+  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.5/Nexus_Finance_Setup.exe",
+  "critica": true,
+  "cambios": "Nueva funcion: cruce automatico contra la Lista 69-B del SAT (EFOS/EDOS) para detectar proveedores no confiables, visible en el Dashboard y en el Directorio de Proveedores. Se actualiza sola cada semana.",
+  "release_date": "17-09-26"
 }
