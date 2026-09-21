@@ -1,7 +1,7 @@
 {
-  "version_actual": "1.0.7",
-  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.7/Nexus_Finance_Setup.exe",
-  "critica": false,
-  "cambios": "Corrige un choque real de la aplicacion (no del backend) al usar el selector de archivos en la pantalla de Descarga SAT -- causado por una version vieja del plugin file_picker con un bug conocido en Windows. Actualizacion recomendada para cualquiera que use la funcion de Descarga Masiva de CFDI del SAT.",
+  "version_actual": "1.0.8",
+  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.8/Nexus_Finance_Setup.exe",
+  "critica": true,
+  "cambios": "Corrige el rechazo del SAT en la Descarga Masiva de CFDI: sin EstadoComprobante explicito, el SAT rechazaba las solicitudes de facturas recibidas con 'No se permite la descarga de xml que se encuentren cancelados'. Ahora se pide explicitamente el estado Vigente.",
   "release_date": "21-09-26"
 }
