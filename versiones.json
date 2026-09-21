@@ -1,7 +1,7 @@
 {
   "version_actual": "1.0.6",
   "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.6/Nexus_Finance_Setup.exe",
-  "critica": false,
+  "critica": true,
   "cambios": "Nueva funcion: Descarga Masiva de CFDI del SAT con tu e.firma (100% local, nunca sale de tu computadora). Solicita facturas emitidas o recibidas por rango de fechas; la descarga sobrevive a que cierres la app y se revisa sola cada vez que abres Nexus Finance.",
   "release_date": "21-09-26"
 }
