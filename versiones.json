@@ -1,7 +1,7 @@
 {
   "version_actual": "1.0.7",
   "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.7/Nexus_Finance_Setup.exe",
-  "critica": true,
+  "critica": false,
   "cambios": "Corrige un choque real de la aplicacion (no del backend) al usar el selector de archivos en la pantalla de Descarga SAT -- causado por una version vieja del plugin file_picker con un bug conocido en Windows. Actualizacion recomendada para cualquiera que use la funcion de Descarga Masiva de CFDI del SAT.",
   "release_date": "21-09-26"
 }
