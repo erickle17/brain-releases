@@ -1,7 +1,7 @@
 {
   "version_actual": "1.0.11",
   "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.11/Nexus_Finance_Setup.exe",
-  "critica": false,
+  "critica": true,
   "cambios": "Agrega un boton 'Actualizar ahora' real a las actualizaciones no criticas. Antes esa tarjeta solo era informativa, sin ninguna accion detras.",
   "release_date": "22-09-26"
 }
