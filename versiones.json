@@ -1,7 +1,7 @@
 {
-  "version_actual": "1.0.10",
-  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.10/Nexus_Finance_Setup.exe",
+  "version_actual": "1.0.11",
+  "url_descarga": "https://github.com/erickle17/brain-releases/releases/download/v1.0.11/Nexus_Finance_Setup.exe",
   "critica": false,
-  "cambios": "Marca del despacho (logo/nombre) en el Dictamen PDF. Reportes PDF y Excel enriquecidos con datos reales: grafica de tendencia mensual, concentracion de proveedores, salud de flujo, y resumen mensual en Excel. Corrige fallas reales del chat con IA local y del mensaje de estatus del SAT.",
-  "release_date": "21-09-26"
+  "cambios": "Agrega un boton 'Actualizar ahora' real a las actualizaciones no criticas. Antes esa tarjeta solo era informativa, sin ninguna accion detras.",
+  "release_date": "22-09-26"
 }
